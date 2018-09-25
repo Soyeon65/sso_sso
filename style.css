@@ -1,0 +1,26 @@
+.makeitrain{
+  color: green;
+  size:100%;
+  font-family:"Trebuchet", Trebuchet, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#makeithail{
+  color:yellow;
+  size:100%;
+}
+.makeitorange{
+  color:orange
+}
+#redtext{
+  color: red;
+  font-size: 50%;
+}
+.makeitpurple{
+  color: purple;
+  text-align: right;
+}
+#yellowtext{
+  color: yellow;
+}
