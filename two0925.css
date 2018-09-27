@@ -1,0 +1,9 @@
+body{background-color:red}
+.makeul{
+  color: green;
+  font-style: italic;
+}
+.makeli{
+  display: inline;
+  font-size: 30px;
+}
